@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/primary">
+        <item
+            android:id="@+id/chart"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="MPAndeordChart" />
+        <item
+            android:id="@+id/rxjava"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="rxjava" />
+        <item
+            android:id="@+id/mqtt"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="mqtt" />
+        <item
+            android:id="@+id/listview"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="ListView" />
+        <item
+            android:id="@+id/biometric"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="指纹识别" />
+        <item
+            android:id="@+id/qrcode"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="二维码扫描" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="退出" />
+    </group>
+</menu>
